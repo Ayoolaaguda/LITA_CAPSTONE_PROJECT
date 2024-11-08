@@ -131,9 +131,12 @@ Marketing strategies to upsell and cross-sell subcription plans in the various r
 ## DATA VISUALIZATION
 ![SalesAnalysisPoweBI](https://github.com/user-attachments/assets/5396f52c-db90-402f-b1d4-c3471824c673)
 
+
 ![SalesExcel](https://github.com/user-attachments/assets/113b993f-98d4-4381-88fb-2da2b6a9501d)
 
+
 ![CustomerAnalysis](https://github.com/user-attachments/assets/7dc83613-38e8-4b00-bebf-89a00f22ce42)
+
 
 ![CustomerDashboardExcel](https://github.com/user-attachments/assets/e00ecd4a-7bf5-4ecd-999e-b65455977f59)
 
